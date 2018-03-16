@@ -1,0 +1,8 @@
+# Review System Block Chain, Sample Supply Chain requirements
+geth 1.7.2 or 1.8.2
+
+# Notary requirements
+Python 3.6.3
+web3.py
+solidity 0.4.19
+
